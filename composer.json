@@ -2,7 +2,7 @@
     "name": "wizaplace/phpunit-slicer",
     "license": "MIT",
     "require": {
-        "php": "^7.1",
+        "php": "^7.1|^8.0",
         "phpunit/phpunit": "^7|^8"
     },
     "autoload": {
